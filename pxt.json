@@ -12,6 +12,7 @@
         "main.blocks",
         "main.ts",
         "Eureka_block.ts"
+        "ds18b20.cpp"
     ],
     "testFiles": [
         "test.ts"
